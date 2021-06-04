@@ -1,2 +1,4 @@
-package LiveCoding;public class Task17 {
+package LiveCoding;
+
+public class Task17 {
 }
